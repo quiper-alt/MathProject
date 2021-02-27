@@ -1,0 +1,6 @@
+C:\Users\kupts\RiderProjects\MathProject\MathProject\obj\Debug\MathProject.csprojAssemblyReference.cache
+C:\Users\kupts\RiderProjects\MathProject\MathProject\obj\Debug\MathProject.csproj.CoreCompileInputs.cache
+C:\Users\kupts\RiderProjects\MathProject\MathProject\bin\Debug\MathProject.dll
+C:\Users\kupts\RiderProjects\MathProject\MathProject\bin\Debug\MathProject.pdb
+C:\Users\kupts\RiderProjects\MathProject\MathProject\obj\Debug\MathProject.dll
+C:\Users\kupts\RiderProjects\MathProject\MathProject\obj\Debug\MathProject.pdb
